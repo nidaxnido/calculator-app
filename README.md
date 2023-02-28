@@ -30,7 +30,6 @@ Users should be able to:
 - [Next.js](https://nextjs.org/) - React framework
 - [Chakra UI](https://chakra-ui.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 
 ## Author
